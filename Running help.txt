@@ -1,0 +1,4 @@
+1.go run . --mode server
+2.go run . --mode client --room 1
+3.go run . --mode client --room 1
+4.Enjoy...
